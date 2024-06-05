@@ -1,0 +1,4 @@
+2024-05-31 20:39:45,146 [main] INFO  o.a.i.d.p.a.r.PipeReceiverAgent:65 - Clean pipe receiver dir C:\Users\aaagui_666\apache-iotdb-1.3.0-all-bin\data\datanode\system\pipe\receiver successfully. 
+2024-05-31 20:39:45,148 [main] INFO  o.a.i.d.p.a.r.PipeReceiverAgent:72 - Create pipe receiver dir C:\Users\aaagui_666\apache-iotdb-1.3.0-all-bin\data\datanode\system\pipe\receiver successfully. 
+2024-05-31 20:39:45,151 [main] INFO  o.a.i.d.p.a.r.SimpleConsensusProgressIndexAssigner:62 - Start SimpleConsensusProgressIndexAssigner ... 
+2024-05-31 20:39:45,766 [main] INFO  o.a.i.d.p.a.r.PipePeriodicalJobExecutor:77 - Pipe periodical job executor is started successfully. 

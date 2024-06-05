@@ -1,0 +1,2 @@
+2024-05-31 20:39:40,696 [main] WARN  o.a.r.m.MetricRegistriesLoader:81 - Found multiple MetricRegistries implementations: class org.apache.iotdb.consensus.ratis.metrics.MetricRegistryManager, class org.apache.ratis.metrics.impl.MetricRegistriesImpl. Using first found implementation: org.apache.iotdb.consensus.ratis.metrics.MetricRegistryManager@51b1a8f6 
+2024-05-31 20:39:41,361 [main] WARN  o.a.i.t.c.c.TSFileDescriptor:129 - not found iotdb-common.properties, use the default configs. 
